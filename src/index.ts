@@ -1,3 +1,6 @@
 import { start } from "./app/app";
 
-start();
+
+const args: string[] = [];
+
+start(args);
