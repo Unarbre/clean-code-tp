@@ -9,7 +9,9 @@
   },
   "author": "Simon Halimi",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
   "devDependencies": {
     "tsc-watch": "^4.2.9",
     "typescript": "^4.1.3"
