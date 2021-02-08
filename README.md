@@ -1,7 +1,5 @@
-Pour me lancer : 
+## Pour me lancer : ##
 
+`npm i`
 
-npm i
-
-
-npm run start:dev
+`npm run start:dev`
